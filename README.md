@@ -1,2 +1,2 @@
-# TulipTown-VisitorsGuide
+# Visitors-Guide
 Created with CodeSandbox
